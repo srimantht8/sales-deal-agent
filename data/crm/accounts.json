@@ -1,0 +1,250 @@
+[
+  {
+    "company_name": "Snowflake Inc",
+    "is_public_company": true,
+    "deal_stage": "discovery",
+    "relationship_health": "neutral",
+    "deal_value": 450000,
+    "products_interested": ["Data Platform", "Analytics Module"],
+    "competitors_mentioned": ["incumbent vendor", "open-source alternative"],
+    "contacts": [
+      {
+        "name": "Sarah Chen",
+        "title": "VP of Engineering",
+        "email": "s.chen@snowflake.com",
+        "role": "technical_champion"
+      },
+      {
+        "name": "Marcus Webb",
+        "title": "CTO",
+        "email": "m.webb@snowflake.com",
+        "role": "decision_maker"
+      },
+      {
+        "name": "Priya Sharma",
+        "title": "Director of Data Science",
+        "email": "p.sharma@snowflake.com",
+        "role": "end_user"
+      }
+    ],
+    "interaction_history": [
+      {
+        "date": "2026-02-15",
+        "type": "meeting",
+        "summary": "Initial discovery call. Sarah Chen expressed interest in modernizing their data infrastructure. Currently evaluating build vs buy for internal tooling."
+      },
+      {
+        "date": "2026-02-22",
+        "type": "email",
+        "summary": "Sent overview deck and case studies. Sarah shared with Marcus Webb (CTO) for review."
+      },
+      {
+        "date": "2026-03-01",
+        "type": "meeting",
+        "summary": "Follow-up call with Sarah and Priya. Discussed integration requirements with their existing data infrastructure. Competitive evaluation underway with an incumbent vendor."
+      },
+      {
+        "date": "2026-03-05",
+        "type": "email",
+        "summary": "Sarah requested a technical deep-dive session. Scheduling for next week."
+      }
+    ]
+  },
+  {
+    "company_name": "NovaCrest Financial",
+    "is_public_company": true,
+    "deal_stage": "negotiation",
+    "relationship_health": "positive",
+    "deal_value": 1200000,
+    "products_interested": ["Data Platform", "Compliance Module", "Risk Analytics Module"],
+    "competitors_mentioned": ["incumbent analytics vendor"],
+    "contacts": [
+      {
+        "name": "James Rodriguez",
+        "title": "Chief Data Officer",
+        "email": "j.rodriguez@novacrest.com",
+        "role": "decision_maker"
+      },
+      {
+        "name": "Emily Watson",
+        "title": "Head of AI/ML",
+        "email": "e.watson@novacrest.com",
+        "role": "technical_champion"
+      }
+    ],
+    "interaction_history": [
+      {
+        "date": "2025-11-10",
+        "type": "meeting",
+        "summary": "Discovery session. NovaCrest needs advanced analytics capabilities for their risk management workflows."
+      },
+      {
+        "date": "2025-12-15",
+        "type": "demo",
+        "summary": "Full platform demo for the analytics team. Very positive reception. Emily called it 'exactly what we need'."
+      },
+      {
+        "date": "2026-01-20",
+        "type": "meeting",
+        "summary": "Technical evaluation completed successfully. Moving to commercial discussions."
+      },
+      {
+        "date": "2026-02-28",
+        "type": "meeting",
+        "summary": "Pricing discussion with James. They want a 3-year enterprise agreement. Requesting volume discount for 500+ seats."
+      },
+      {
+        "date": "2026-03-06",
+        "type": "email",
+        "summary": "Sent revised proposal with tiered pricing. James confirmed budget approval is in progress."
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Health Systems",
+    "is_public_company": false,
+    "deal_stage": "evaluation",
+    "relationship_health": "at_risk",
+    "deal_value": 750000,
+    "products_interested": ["Data Platform", "Clinical Analytics Module"],
+    "competitors_mentioned": ["incumbent EHR vendor's analytics module", "cloud provider's healthcare offering"],
+    "contacts": [
+      {
+        "name": "Dr. Robert Kim",
+        "title": "CMIO",
+        "email": "r.kim@meridianhealth.org",
+        "role": "decision_maker"
+      },
+      {
+        "name": "Lisa Park",
+        "title": "VP of IT",
+        "email": "l.park@meridianhealth.org",
+        "role": "technical_champion"
+      },
+      {
+        "name": "David Okafor",
+        "title": "Security Officer",
+        "email": "d.okafor@meridianhealth.org",
+        "role": "influencer"
+      }
+    ],
+    "interaction_history": [
+      {
+        "date": "2026-01-08",
+        "type": "meeting",
+        "summary": "Initial meeting with Lisa Park. Healthcare analytics use case: clinical decision support and operational efficiency."
+      },
+      {
+        "date": "2026-01-25",
+        "type": "demo",
+        "summary": "Platform demo. David Okafor raised significant concerns about HIPAA compliance and data residency requirements."
+      },
+      {
+        "date": "2026-02-10",
+        "type": "email",
+        "summary": "Sent security whitepaper and compliance documentation. David requested additional SOC2 audit details."
+      },
+      {
+        "date": "2026-02-28",
+        "type": "meeting",
+        "summary": "Tough meeting. Dr. Kim expressed frustration with integration timeline. Lisa mentioned their incumbent vendor offers a simpler alternative. Relationship at risk."
+      }
+    ]
+  },
+  {
+    "company_name": "AuroraStack Technologies",
+    "is_public_company": false,
+    "deal_stage": "renewal",
+    "relationship_health": "positive",
+    "deal_value": 380000,
+    "products_interested": ["Data Platform", "DevOps Analytics Module", "Code Quality Module"],
+    "competitors_mentioned": [],
+    "contacts": [
+      {
+        "name": "Alex Turner",
+        "title": "VP of Engineering",
+        "email": "a.turner@aurorastack.io",
+        "role": "technical_champion"
+      },
+      {
+        "name": "Nina Patel",
+        "title": "CEO",
+        "email": "n.patel@aurorastack.io",
+        "role": "decision_maker"
+      }
+    ],
+    "interaction_history": [
+      {
+        "date": "2025-04-01",
+        "type": "contract",
+        "summary": "Initial 1-year contract signed. 50 seats for the core data platform."
+      },
+      {
+        "date": "2025-09-15",
+        "type": "qbr",
+        "summary": "Quarterly business review. Usage up 40%. Alex's team loves the platform. Exploring the DevOps analytics add-on."
+      },
+      {
+        "date": "2026-01-10",
+        "type": "qbr",
+        "summary": "Q4 review. Platform adoption at 92%. Nina mentioned expanding to 150 seats. Very satisfied customer."
+      },
+      {
+        "date": "2026-03-01",
+        "type": "email",
+        "summary": "Renewal discussion initiated. Alex wants to add the code quality module. Contract expires April 1."
+      }
+    ]
+  },
+  {
+    "company_name": "Vertex Logistics Group",
+    "is_public_company": true,
+    "deal_stage": "evaluation",
+    "relationship_health": "at_risk",
+    "deal_value": 600000,
+    "products_interested": ["Data Platform", "Supply Chain Module"],
+    "competitors_mentioned": ["enterprise AI vendor", "supply chain platform vendor"],
+    "contacts": [
+      {
+        "name": "Tom Nakamura",
+        "title": "SVP of Operations",
+        "email": "t.nakamura@vertexlogistics.com",
+        "role": "decision_maker"
+      },
+      {
+        "name": "Rachel Foster",
+        "title": "Director of Innovation",
+        "email": "r.foster@vertexlogistics.com",
+        "role": "technical_champion"
+      },
+      {
+        "name": "Mike Sullivan",
+        "title": "CFO",
+        "email": "m.sullivan@vertexlogistics.com",
+        "role": "influencer"
+      }
+    ],
+    "interaction_history": [
+      {
+        "date": "2026-01-15",
+        "type": "meeting",
+        "summary": "Discovery call with Rachel. Vertex needs analytics for route optimization and demand forecasting."
+      },
+      {
+        "date": "2026-02-01",
+        "type": "demo",
+        "summary": "Technical demo. Rachel impressed but Tom raised concerns about implementation timeline and total cost."
+      },
+      {
+        "date": "2026-02-15",
+        "type": "meeting",
+        "summary": "Competitive bake-off announced. Vertex is evaluating us against two competing vendors. Mike Sullivan wants hard ROI numbers."
+      },
+      {
+        "date": "2026-03-03",
+        "type": "email",
+        "summary": "Rachel shared evaluation criteria: integration speed, supply chain domain expertise, and 3-year TCO. Decision expected by end of March."
+      }
+    ]
+  }
+]

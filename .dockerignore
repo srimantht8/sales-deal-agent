@@ -1,0 +1,13 @@
+.env
+.git
+.gitignore
+.claude/
+.DS_Store
+__pycache__
+*.pyc
+.pytest_cache
+data/faiss_index/
+infra/
+sales_deal_agent.egg-info/
+*.md
+!README.md
